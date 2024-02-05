@@ -2,7 +2,7 @@
 
 1. Moving the oriented object to the target position (center of 3 fingers) for generating pick points
 - Tesollo Delto-3f + BRKT
-- Used PID Controller
+- Use PID Controller
 - Reset if the object collide with gripper
 
 <p align="center">
