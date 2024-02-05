@@ -6,7 +6,7 @@
 </p>
 1-1. 
 <p align="left">
-  <img width="1% "src="https://github.com/john2choi/mujoco_gymnasium/assets/28641977/5c6ca05e-6b6e-4aab-9ffc-4329b4bc75e8.gif">
+  <img width="1%" src="https://github.com/john2choi/mujoco_gymnasium/assets/28641977/5c6ca05e-6b6e-4aab-9ffc-4329b4bc75e8.gif">
 </p>
 2. Moving the oriented object to the target position (center of 3 fingers) for generating pick points
   - Tesollo Delto-3f + BRKT
