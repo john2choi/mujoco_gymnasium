@@ -17,4 +17,10 @@
   <img width="70%" src="https://github.com/john2choi/mujoco_gymnasium/assets/28641977/32ff6247-a7d2-4e7c-98e0-014a127219c1)https://github.com/john2choi/mujoco_gymnasium/assets/28641977/32ff6247-a7d2-4e7c-98e0-014a127219c1.gif">
 </p>
 
+3.
+<div>
+  <img style="float: left; width: 30%; margin-right: 2%;" src="https://github.com/john2choi/mujoco_gymnasium/assets/28641977/39b21437-b77a-4f46-a265-99cbd92c828f.gif" >
+  <img style="float: right; width: 30%; margin-left: 2%;" src="https://github.com/john2choi/mujoco_gymnasium/assets/28641977/5c6ca05e-6b6e-4aab-9ffc-4329b4bc75e8.gif">
+</div>
+
 
