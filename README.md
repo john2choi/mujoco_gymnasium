@@ -1,6 +1,6 @@
 # mujoco_gymnasium
 
-1. Moving the object to the target position (center of 3 fingers) for generating pick points using PID controller.
+1. Moving the oriented object to the target position (center of 3 fingers) for generating pick points using PID controller.
 - Tesollo Delto-3f + BRKT
 
 <p align="center">
