@@ -4,6 +4,7 @@
 <p align="left">
   <img width="30%" src="https://github.com/john2choi/mujoco_gymnasium/assets/28641977/39b21437-b77a-4f46-a265-99cbd92c828f.gif" >
 </p>
+
 <p align="left">
   <img width="1% "src="https://github.com/john2choi/mujoco_gymnasium/assets/28641977/5c6ca05e-6b6e-4aab-9ffc-4329b4bc75e8.gif">
 </p>
