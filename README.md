@@ -1,6 +1,6 @@
 # mujoco_gymnasium
 
-1. Moving object to the target position for generating pick points using PID controller.
+1. Moving the object to the target position for generating pick points using PID controller.
 - Tesollo Delto-3f + BRKT
 
 <p align="left">
