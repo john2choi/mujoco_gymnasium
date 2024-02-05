@@ -2,8 +2,8 @@
 
 1. Modeling the 6DOF manipulator (Rainbow Robotics_RB5) with Gripper (Tesollo Delto-3f) into MuJoCo Engine
 <div>
-  <img style="float: left; width: 30%; margin-right: 2%;" src="https://github.com/john2choi/mujoco_gymnasium/assets/28641977/39b21437-b77a-4f46-a265-99cbd92c828f.gif" >
-  <img style="float: right; width: 30%; margin-left: 2%;" src="https://github.com/john2choi/mujoco_gymnasium/assets/28641977/5c6ca05e-6b6e-4aab-9ffc-4329b4bc75e8.gif">
+  <img style="float: center; width: 30%;" src="https://github.com/john2choi/mujoco_gymnasium/assets/28641977/39b21437-b77a-4f46-a265-99cbd92c828f.gif" >
+  <img style="float: center; width: 30%;" src="https://github.com/john2choi/mujoco_gymnasium/assets/28641977/5c6ca05e-6b6e-4aab-9ffc-4329b4bc75e8.gif">
 </div>
 
 
